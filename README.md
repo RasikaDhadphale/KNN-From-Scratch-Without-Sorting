@@ -12,6 +12,6 @@ K Nearest Neighbors in Python from Scratch without using sort function.
 > Math
 
 ## KNN Execution:
-> Install all required packages.
-> Open .ipynb file in Jupyter Notebook or in Google Colab.
-> Execute all the cells one by one.
+1. Install all required packages.
+2. Open .ipynb file in Jupyter Notebook or in Google Colab.
+3. Execute all the cells one by one.
