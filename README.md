@@ -2,14 +2,14 @@
 K Nearest Neighbors in Python from Scratch without using sort function.
 
 ## Overall Requirements:
-  > Python 3
-  > Jupyter Notebook/Google Colab
+1. Python 3
+2. Jupyter Notebook/Google Colab
 
 ## Required Packages:
-  > Numpy
-  > Pandas
-  > sklearn
-  > Math
+1. Numpy
+2. Pandas
+3. sklearn
+4. Math
 
 ## KNN Execution:
 1. Install all required packages.
